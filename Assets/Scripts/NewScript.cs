@@ -7,7 +7,7 @@ public class NewScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // comentario aortega modificado2
+        // comentario aortega modificado3
     }
 
     // Update is called once per frame

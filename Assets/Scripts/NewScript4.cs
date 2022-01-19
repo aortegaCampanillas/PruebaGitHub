@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewScript : MonoBehaviour
+public class NewScript4 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -13,6 +13,7 @@ public class NewScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+	// Comentario en update
         
     }
 }

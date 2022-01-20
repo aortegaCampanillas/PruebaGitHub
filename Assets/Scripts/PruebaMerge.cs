@@ -7,6 +7,7 @@ public class PruebaMerge : MonoBehaviour
        void Start()
     {
             // Comentario en start
+            // Comentario en la rama5
     }
 
     void Update()

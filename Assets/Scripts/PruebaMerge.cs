@@ -10,5 +10,6 @@ public class PruebaMerge : MonoBehaviour
 
     void Update()
     {
+        // Comentario creado desde la rama master
     }
 }

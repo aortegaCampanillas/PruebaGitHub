@@ -12,5 +12,6 @@ public class PruebaMerge : MonoBehaviour
     {
         // Comentario creado desde la rama master
         // comentario desde la nueva rama
+        // comentario de aortega
     }
 }
